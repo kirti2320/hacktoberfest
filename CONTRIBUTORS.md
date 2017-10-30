@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [kirti shekhawat](https://github.com/kirti2320)
+- Place: kirti shekhawat, hyderabad india
+- Bio: learner, Student at ndm
+- GitHub: [kirti2320](https://github.com/kirti2320)
